@@ -148,4 +148,4 @@ The program can be manually tested using cases such as:
 
 ## Creator
 
-Mohit Gaur
+Mohit Gour
