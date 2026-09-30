@@ -148,8 +148,4 @@ The program can be manually tested using cases such as:
 
 ## Creator
 
-<<<<<<< HEAD
-Mohit Gaur
-=======
 Mohit Gour
->>>>>>> 2411297af64635de4d10850e2e15e51c767d1404
